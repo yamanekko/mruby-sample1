@@ -1,4 +1,4 @@
-# mruby-sample1
+# mruby-toppers-sample1
 TOPPERSのsample1をmrubyで動かすためのmrbgemです。
 Rubyで書かない方が良さそう or 書けないものはこちらで実装しています。
 (TOPPERSのsampleを実装したmrubyのサンプルコードは[asp3-f767zi-application-samples](https://github.com/yamanekko/asp3-f767zi-application-samples)です)
